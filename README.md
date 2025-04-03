@@ -1,11 +1,11 @@
-# Teste Técnico – Desenvolvimento de Sistema Financeiro
+# Teste Técnico - trilote
 
 Prezado(a) candidato(a),
 
 Agradecemos seu interesse em nossa oportunidade. Para avaliarmos melhor suas habilidades em desenvolvimento de software, gostaríamos que você desenvolvesse um sistema financeiro, contemplando tanto o frontend quanto o backend, utilizando as tecnologias que adotamos atualmente:
 
-### Frontend: React + Next.js
-### Backend: PHP + Laravel
+- Frontend: React + Next.js
+- Backend: PHP + Laravel
 
 ## Escopo do Projeto
 - O sistema financeiro deve incluir os seguintes módulos e funcionalidades:
